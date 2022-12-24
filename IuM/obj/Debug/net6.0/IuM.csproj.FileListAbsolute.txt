@@ -1,0 +1,15 @@
+D:\IuM\bin\Debug\net6.0\IuM.exe
+D:\IuM\bin\Debug\net6.0\IuM.deps.json
+D:\IuM\bin\Debug\net6.0\IuM.runtimeconfig.json
+D:\IuM\bin\Debug\net6.0\IuM.dll
+D:\IuM\bin\Debug\net6.0\IuM.pdb
+D:\IuM\obj\Debug\net6.0\IuM.csproj.AssemblyReference.cache
+D:\IuM\obj\Debug\net6.0\IuM.GeneratedMSBuildEditorConfig.editorconfig
+D:\IuM\obj\Debug\net6.0\IuM.AssemblyInfoInputs.cache
+D:\IuM\obj\Debug\net6.0\IuM.AssemblyInfo.cs
+D:\IuM\obj\Debug\net6.0\IuM.csproj.CoreCompileInputs.cache
+D:\IuM\obj\Debug\net6.0\IuM.dll
+D:\IuM\obj\Debug\net6.0\refint\IuM.dll
+D:\IuM\obj\Debug\net6.0\IuM.pdb
+D:\IuM\obj\Debug\net6.0\IuM.genruntimeconfig.cache
+D:\IuM\obj\Debug\net6.0\ref\IuM.dll
