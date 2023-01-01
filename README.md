@@ -5,4 +5,5 @@ Text adventure ini mengisahkan tentang sebuah desa yang mengalami peristiwa aneh
 
 //EN
 In this text adventure, there's an incident that turn nouns into alphabet that scrabbled everywhere, as a protagonist, your mission is to find the culprit of this incident and save the village.
+
 --THIS TEXT ADVENTURE HAVE A LONG DIALOG--
